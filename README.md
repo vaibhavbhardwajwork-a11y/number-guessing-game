@@ -39,7 +39,35 @@
 ## Example
 
 ```
-[Paste a real game from your terminal here]
+[Enter difficulty (easy/hard): easy
+Attempts remaining: 5
+Enter a number between 1 and 10: 5
+Hint: it's lower than your guess.
+Attempts remaining: 4
+Enter a number between 1 and 10: 4
+Hint: it's lower than your guess.
+Attempts remaining: 3
+Enter a number between 1 and 10: 3
+Hint: it's lower than your guess.
+Attempts remaining: 2
+Enter a number between 1 and 10: 2
+Hint: it's lower than your guess.
+Attempts remaining: 1
+Enter a number between 1 and 10: 1
+Congrats!! You guessed the right number.
+Play again (y/n): y
+Enter difficulty (easy/hard): easy
+Attempts remaining: 5
+Enter a number between 1 and 10: 5
+Hint: it's lower than your guess.
+Attempts remaining: 4
+Enter a number between 1 and 10: 9
+Hint: it's lower than your guess.
+Attempts remaining: 3
+Enter a number between 1 and 10: 1
+Congrats!! You guessed the right number.
+Play again (y/n): n
+Thanks for playing!!]
 ```
 
 ## What I Practiced
