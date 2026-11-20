@@ -1,10 +1,27 @@
 import random
 
-high = 100
-low = 1
-max_attempts = 10
-attempts = max_attempts
 
+while True:
+    difficulty = input("Enter difficulty (easy/hard): ")
+    difficulty = difficulty.strip().lower()
+     
+    if difficulty == "easy":
+        low = 1
+        high = 10
+        max_attempts = 5
+        break
+
+    elif difficulty == "hard":
+        low = 1
+        high = 100
+        max_attempts = 10
+        break
+
+    else:
+        print("Pls enter a valid difficulty level.")
+        
+     
+attempts = max_attempts     
 secret = random.randint(low, high)
 
 
