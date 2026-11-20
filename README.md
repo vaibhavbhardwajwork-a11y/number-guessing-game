@@ -78,6 +78,3 @@ Thanks for playing!!]
 - [f-strings]
 - [Git and GitHub workflow]
 
-## Future Improvements
-
-- [Ideas you might add later, e.g. a score counter or a "medium" difficulty]
